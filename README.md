@@ -26,3 +26,7 @@ Siga os passos abaixo para rodar o projeto em sua máquina local:
 1. **Clone o repositório** (ou apenas baixe os arquivos):
    ```bash
    git clone https://github.com/Nobre-Devl/Cadastro-de-Alunos.git
+   
+## ✒️ Autor
+
+Gustavo Dos Santos Nobre
